@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chisfy
-- 👀 I’m interested in travel, food, gaming, sports and so on on
+- 👀 I’m interested in travel, food, gaming, sports and so on
 - 🌱 I’m currently learning with School of Code!
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me via email or messaging me here
