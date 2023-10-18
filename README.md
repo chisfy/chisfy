@@ -1,4 +1,11 @@
+
+
+![Command Prompt (1)](https://github.com/chisfy/chisfy/assets/137444313/e533b002-eb8c-45ee-b8f9-7c9e169f6c0e)
+
+
 - 👋 Hi, I’m Fyza
+
+  
 - 👀 I’m interested in coding, travel, food, gaming, sports and so on
 - 🌱 I’m currently learning with School of Code! Specfically UX AND UI design!
 - 💞️ I’m looking to collaborate on open-source coding projects & learn more about software development
