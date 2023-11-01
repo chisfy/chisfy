@@ -6,13 +6,13 @@
   
 I'm currently a bootcamp student at School of Code looking to start a new career as a full stack developer!
   
-I'm documententing my progress in a public diary, a quick website sharing my journey, projects and how I feel doing it! Please give it a read, it's my take on the 100 days of code challenge!
+I'm documenting my progress in a public diary, a quick website sharing my journey, projects and how I feel doing it! Please give it a read, it's my take on the 100 days of code challenge!
 
 https://sites.google.com/view/coding-and-me/
 
 Current Tech Stack: JavaScript | Node.JS | Express.JS | Playwright | Figma | HTML | CSS | PostgresSQL & more to come!
   
-- 🌱 I’m currently learning UX AND UI design!
+- 🌱 I’m currently learning about deployment!
 - 👀 I’m interested in coding, travel, food, gaming, sports, writing to name a few!
 - 💞️ I’m looking to collaborate on open-source coding projects & learn more about software development
 - 📫 How to reach me: https://www.linkedin.com/in/fyza-chishty/
