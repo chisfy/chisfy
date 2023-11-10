@@ -10,9 +10,9 @@ I'm documenting my progress in a public diary, a quick website sharing my journe
 
 https://sites.google.com/view/coding-and-me/
 
-Current Tech Stack: JavaScript | Node.JS | Express.JS | Playwright | Figma | HTML | CSS | PostgresSQL & more to come!
+Current Tech Stack: JavaScript | Node.JS | Express.JS | Playwright | Figma | HTML | CSS | PostgresSQL | React & more to come!
   
-- 🌱 I’m currently learning about deployment!
+- 🌱 I’m currently learning about React!
 - 👀 I’m interested in coding, travel, food, gaming, sports, writing to name a few!
 - 💞️ I’m looking to collaborate on open-source coding projects & learn more about software development
 - 📫 How to reach me: https://www.linkedin.com/in/fyza-chishty/
