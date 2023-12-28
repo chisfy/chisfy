@@ -12,7 +12,7 @@ https://sites.google.com/view/coding-and-me/
 
 Current Tech Stack: JavaScript | Node.JS | Express.JS | Playwright | Figma | HTML | CSS | PostgresSQL | React | Next.JS & more to come!
   
-- 🌱 I’m currently working on developiing projects and a portfolio!
+- 🌱 I’m currently working on developing projects and a portfolio!
 - 👀 I’m interested in coding, travel, food, gaming, sports, writing to name a few!
 - 💞️ I’m looking to collaborate on open-source coding projects & learn more about software development
 - 📫 How to reach me: https://www.linkedin.com/in/fyza-chishty/
