@@ -6,7 +6,7 @@
   
 I'm currently a bootcamp student at School of Code looking to start a new career as a full stack developer!
 
-My GitHub profile reflects my progress in coding journey, starting from simple exercises to larger apps. I hope that it's showcases my coding development, It's been tempting to adjust and edit old repos but I think the imperfection is important in showcasing my growth which I hope all developers to find common ground with.
+My GitHub profile reflects my progress in coding journey, starting from simple exercises to larger apps. I hope that it's showcases my coding development, It's been tempting to adjust and edit old code but I think the imperfection is important in showcasing my growth which I hope all developers to find common ground with.
   
 I'm documenting my progress in a public diary, a quick website sharing my journey, projects and how I feel doing it! Please give it a read, it's my take on the 100 days of code challenge!
 
