@@ -8,6 +8,8 @@ I'm currently a bootcamp student at School of Code looking to start a new career
   
 I'm documenting my progress in a public diary, a quick website sharing my journey, projects and how I feel doing it! Please give it a read, it's my take on the 100 days of code challenge!
 
+My GitHub reflects my progress in coding journey, starting from simple exercises to larger apps. I hope that it's showcases my coding development, It's been tempting to adjust and edit old repos but I think the imperfection is important in showcasing my growth which I hope all developers to find common ground with.
+
 https://sites.google.com/view/coding-and-me/
 
 Current Tech Stack: JavaScript | Node.JS | Express.JS | Playwright | Figma | HTML | CSS | PostgresSQL | React | Next.JS & more to come!
