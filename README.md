@@ -7,7 +7,7 @@
 
 👋 Hi, I’m Fyza
   
-I'm currently a bootcamp student at School of Code looking to start a new career as a full stack developer!
+I'm a recent graduate of a coding bootcamp at School of Code, who is keen to get a career kick-started as a full stack developer!
 
 My GitHub profile reflects my progress in coding journey, starting from simple exercises to larger apps. I hope that it's showcases my coding development, It's been tempting to adjust and edit old code but I think the imperfection is important in showcasing my growth which I hope all developers can find common ground with.
   
