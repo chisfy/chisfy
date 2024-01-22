@@ -15,6 +15,11 @@ Hey There, I’m Fyza
 I'm a recent graduate of a coding bootcamp at School of Code, who is keen to get a career kick-started as a full stack developer!
 
 My GitHub profile reflects my progress in coding journey, starting from simple exercises to larger apps. I hope that it's showcases my coding development, It's been tempting to adjust and edit old code but I think the imperfection is important in showcasing my growth which I hope all developers can find common ground with.
+
+- 🌱 I’m currently working on developing projects and a portfolio!
+- 👀 I’m interested in coding, travel, food, gaming, sports, writing to name a few!
+- 💞️ I’m looking to collaborate on open-source coding projects & learn more about software development
+- 📫 How to reach me: https://www.linkedin.com/in/fyza-chishty/
   
 # 📝 Tech Blog:
 
@@ -42,10 +47,6 @@ Current Tech Stack: JavaScript | Node.JS | Express.JS | Playwright | Figma | HTM
   </a>
 </div>
 
-- 🌱 I’m currently working on developing projects and a portfolio!
-- 👀 I’m interested in coding, travel, food, gaming, sports, writing to name a few!
-- 💞️ I’m looking to collaborate on open-source coding projects & learn more about software development
-- 📫 How to reach me: https://www.linkedin.com/in/fyza-chishty/
 <!---
 chisfy/chisfy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
