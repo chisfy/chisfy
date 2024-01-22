@@ -8,9 +8,7 @@
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/fyza-chishty/" target="_blank">
-      <img src="https://www.svgrepo.com/show/494278/linkedin-round.svg" height="50" alt="LinkedIn">
-    </a>
+    <a href="https://www.linkedin.com/in/fyza-chishty/" target="_blank"><img src="https://www.svgrepo.com/show/494278/linkedin-round.svg" height="50" alt="LinkedIn"></a>
     <a href="mailto:fyzac96@gmail.com">
       <img src="https://www.svgrepo.com/show/488920/email.svg" height="50" alt="Email">
     </a>
