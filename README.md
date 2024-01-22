@@ -8,9 +8,11 @@
 </div>
 
 
+
+
 # 👋 About Me:
 
-Hey There, I’m Fyza
+Hey There, I’m Fyza!
   
 I'm a recent graduate of a coding bootcamp at School of Code, who is keen to get a career kick-started as a full stack developer!
 
@@ -29,7 +31,10 @@ https://sites.google.com/view/coding-and-me/
 
 # ⚙ Tech Stack:
 
-Current Tech Stack: JavaScript | Node.JS | Express.JS | Playwright | Figma | HTML | CSS | PostgresSQL | React | Next.JS & more to come!
+<div align="center">
+  <h3>JavaScript | Node.JS | Express.JS | Playwright | Figma | HTML | CSS | PostgresSQL | React | Next.JS</h3>
+  <h3>& Still Learning!</h3>
+</div>
 
 # 📊 GitHub Stats:
 
