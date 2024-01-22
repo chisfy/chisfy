@@ -14,7 +14,7 @@ https://sites.google.com/view/coding-and-me/
 
 Current Tech Stack: JavaScript | Node.JS | Express.JS | Playwright | Figma | HTML | CSS | PostgresSQL | React | Next.JS & more to come!
 
-                                                                              [![Codewars Badge](https://www.codewars.com/users/chisfy/badges/large)](https://www.codewars.com/users/chisfy)
+[![Codewars Badge](https://www.codewars.com/users/chisfy/badges/large)](https://www.codewars.com/users/chisfy)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chisfy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
