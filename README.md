@@ -7,14 +7,14 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1500&height=100&lines=Welcome+to+my+GitHub+Page!;Please+have+a+read+%26+a+look+through+my+projects!" alt="Typing SVG" /></a>
 </div>
 
-<div class="contact-icons" align="center">
+<div align="center">
     <a href="https://www.linkedin.com/in/fyza-chishty/" target="_blank">
       <img src="https://www.svgrepo.com/show/494278/linkedin-round.svg" height="50" alt="LinkedIn">
     </a>
     <a href="mailto:fyzac96@gmail.com">
       <img src="https://www.svgrepo.com/show/488920/email.svg" height="50" alt="Email">
     </a>
-
+</div>
 
 # 👋 About Me:
 
