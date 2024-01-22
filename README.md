@@ -13,6 +13,8 @@ I'm documenting my progress in a public diary, a quick website sharing my journe
 https://sites.google.com/view/coding-and-me/
 
 Current Tech Stack: JavaScript | Node.JS | Express.JS | Playwright | Figma | HTML | CSS | PostgresSQL | React | Next.JS & more to come!
+
+[![Codewars Badge](https://www.codewars.com/users/chisfy/badges/large)](https://www.codewars.com/users/chisfy)
   
 - 🌱 I’m currently working on developing projects and a portfolio!
 - 👀 I’m interested in coding, travel, food, gaming, sports, writing to name a few!
