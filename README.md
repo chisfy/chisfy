@@ -3,7 +3,7 @@
 ![Command Prompt (1)](https://github.com/chisfy/chisfy/assets/137444313/e533b002-eb8c-45ee-b8f9-7c9e169f6c0e)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&pause=1000&color=000000&random=false&width=500&lines=Welcome+to+my+GitHub+Page!;Please+have+a+read+and+look+through+my+projects!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&pause=500&color=000000&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+GitHub+Page!;Please+have+a+read+and+look+through+my+projects!)](https://git.io/typing-svg)
 
 👋 Hi, I’m Fyza
   
