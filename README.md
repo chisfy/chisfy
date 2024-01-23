@@ -35,7 +35,7 @@ https://sites.google.com/view/coding-and-me/
 # 🛠 Tech Stack:
 
 <div align="center">
-  <h3>JavaScript | Node.JS | Express.JS | Playwright | Figma | HTML | CSS | PostgresSQL | React | Next.JS</h3>
+  <h3>JavaScript | TypeScript | Node.JS | Express.JS | Playwright | Figma | HTML | CSS | PostgresSQL | React | Next.JS</h3>
   <h3>& Still Learning!</h3>
 </div>
 
