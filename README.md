@@ -68,9 +68,8 @@ https://sites.google.com/view/coding-and-me/
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chisfy&theme=city_light&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisfy&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chisfy&theme=city_light&hide_border=false" alt="GitHub Streak" height="150" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chisfy&show_icons=true&theme=transparent" alt="GitHub Stats" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisfy&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages"/>
 </div>
   
 # 👩‍💻 CodeWars Stats:
