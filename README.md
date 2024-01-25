@@ -35,7 +35,7 @@ https://sites.google.com/view/coding-and-me/
 # 🛠 Tech Stack:
 
 <div align="center">
- <img src="https://github.com/chisfy/chisfy/assets/137444313/e238a514-98d4-41c4-a5d4-471dc27c379b" alt="mytechstack"/>
+ <img src="https://github.com/chisfy/chisfy/assets/137444313/0b686a83-0a68-4c91-a6c8-5a2f81a8f747" alt="mytechstack"/>
   <h3> Tools I've Used: ThunderClient | Supertest | ElephantSQL | Supabase | Bootstrap | Express.JS | PostgresSQL | Jest </h3>
   <h3>& Still Learning More!</h3>
 </div>
