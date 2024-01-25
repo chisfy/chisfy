@@ -35,8 +35,9 @@ https://sites.google.com/view/coding-and-me/
 # 🛠 Tech Stack:
 
 <div align="center">
-  <h3>JavaScript | TypeScript | Node.JS | Express.JS | Playwright | Figma | HTML | CSS | PostgresSQL | React | Next.JS</h3>
-  <h3>& Still Learning!</h3>
+ <img src="https://github.com/chisfy/chisfy/assets/137444313/21dd934b-9680-4909-9a19-7f34d8623a5f" alt="mytechstack" height="700" />
+  <h3> Tools I've Used: ThunderClient | Supertest | ElephantSQL | Supabase | Bootstrap | Express.JS | PostgresSQL </h3>
+  <h3>& Still Learning More!</h3>
 </div>
 
 # 📊 GitHub Stats:
