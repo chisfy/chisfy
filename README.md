@@ -35,9 +35,21 @@ https://sites.google.com/view/coding-and-me/
 # 🛠 Tech Stack:
 
 <div align="center">
- <img src="https://github.com/chisfy/chisfy/assets/137444313/21dd934b-9680-4909-9a19-7f34d8623a5f" alt="mytechstack" height="700" />
-  <h3> Tools I've Used: ThunderClient | Supertest | ElephantSQL | Supabase | Bootstrap | Express.JS | PostgresSQL </h3>
+ <img src="https://github.com/chisfy/chisfy/assets/137444313/e238a514-98d4-41c4-a5d4-471dc27c379b" alt="mytechstack" height="700" />
+  <h3> Tools I've Used: ThunderClient | Supertest | ElephantSQL | Supabase | Bootstrap | Express.JS | PostgresSQL | Jest </h3>
   <h3>& Still Learning More!</h3>
+</div>
+
+# 📂 Open Source Projects
+
+<div align="center">
+<h3>Here is a list of projects I have contributed to so far!</h3>
+
+| Repos        | About          |
+| ------------- |:-------------:|
+| https://github.com/calwoodford/anki_decks | Creating revisions cards on topics around software development |
+| https://github.com/Prajwal0225/My-Favorite-SuperHero | A website to learn about all the superheros in the comic world!  |
+
 </div>
 
 # 💡 My Projects
