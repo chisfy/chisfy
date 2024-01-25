@@ -40,6 +40,31 @@ https://sites.google.com/view/coding-and-me/
   <h3>& Still Learning More!</h3>
 </div>
 
+# 💡 My Projects
+
+<div align="center">
+<h3>Here is a list of projects I have created so far! Please also refer to my pinned projects! </h3>
+
+| Repos        | About          |
+| ------------- |:-------------:|
+| https://github.com/chisfy/PokeDex-App | Made with Vanillla JS, HTML, Vanilla CSS - My very first independent project, a take on building a PokeDex! |
+| https://github.com/chisfy/Simpsons-blog | Made with React, Vanilla CSS & JS - My first look into this JS Library! |
+
+</div>
+
+# 📂 Open Source Projects
+
+<div align="center">
+<h3>Here is a list of projects I have contributed to so far!</h3>
+
+| Repos        | About          |
+| ------------- |:-------------:|
+| https://github.com/calwoodford/anki_decks | Creating revisions cards on topics around software development |
+| https://github.com/Prajwal0225/My-Favorite-SuperHero | A website to learn about all the superheros in the comic world!  |
+
+</div>
+
+
 # 📊 GitHub Stats:
 
 <div align="center">
@@ -55,6 +80,7 @@ https://sites.google.com/view/coding-and-me/
     <img src="https://www.codewars.com/users/chisfy/badges/large" alt="Codewars Badge" style="display: block; margin: 0 auto;">
   </a>
 </div>
+
 
 <!---
 chisfy/chisfy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
