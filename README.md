@@ -16,15 +16,15 @@
 
 # 👋 About Me:
 
-Hey There, I’m Fyza!
+<p align="center">Hey There, I’m Fyza!</p>
   
 I'm a recent graduate of a coding bootcamp at School of Code, who is keen to get a career kick-started as a full stack developer! I started in retail but realized I'm meant for more than the shop floor. A 2020 redundancy pushed me to prioritize my worth and passions. Dog grooming was a brief joy, but cut short by health issues. Determined, I shifted to technology, completing a challenging coding bootcamp. Now, as a developer, I find joy in creating applications. Engaging in tech communities, I've built resilience and a continuous learning mindset. Excited about new technologies, I'm ready to contribute my skills to innovative projects. I believe in my abilities, and I'm eager to bring my passion to any opportunity.
 
 My GitHub profile reflects my progress in coding journey, starting from simple exercises to larger apps. I hope that it's showcases my coding development, It's been tempting to adjust and edit old code but I think the imperfection is important in showcasing my growth which I hope all developers can find common ground with.
 
-- 🌱 I’m currently working on developing projects and a portfolio!
-- 👀 I’m interested in coding, travel, food, gaming, sports, writing to name a few!
-- 💞️ I’m looking to collaborate on open-source coding projects & learn more about software development
+<li>🌱 I’m currently working on developing projects and a portfolio!</li>
+<li>👀 I’m interested in coding, travel, food, gaming, sports, writing to name a few!</li> 
+<li>💞️ I’m looking to collaborate on open-source coding projects & learn more about software development</li>
   
 # 📝 Tech Blog:
 
