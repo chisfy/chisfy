@@ -45,12 +45,11 @@ https://sites.google.com/view/coding-and-me/
 <div align="center">
 <h3>Here is a list of projects I have created so far! Please also refer to my pinned projects! </h3>
 
-| Repos        | About          |
-| ------------- |:-------------:|
-| https://github.com/chisfy/PokeDex-App | Made with Vanillla JS, HTML, Vanilla CSS - My very first independent project, a take on building a PokeDex! |
-| https://github.com/chisfy/Simpsons-blog | Made with React, Vanilla CSS & JS - My first look into this JS Library! |
-| https://github.com/chisfy/Weather-Feeds-Phil | Made with TypeScript & React - A weather app for all foodie fans! |
-
+| Repo | Demo | Description | 
+| --- | --- |--- |
+| https://github.com/chisfy/PokeDex-App | <a href="https://stupendous-mousse-0d11ce.netlify.app/">Web Link</a> | Made with Vanillla JS, HTML, Vanilla CSS - My very first independent project, a take on building a PokeDex! |
+| https://github.com/chisfy/Simpsons-blog | <a href="https://65aec97fddd90e443f7a95fc--bright-crisp-639cd3.netlify.app/">Web Link</a> | Made with React, Vanilla CSS & JS - My first look into this JS Library! |
+| https://github.com/chisfy/Weather-Feeds-Phil | <a href="https://65aec97fddd90e443f7a95fc--bright-crisp-639cd3.netlify.app/">Web Link</a> | Made with TypeScript & React - A weather app for all foodie fans! |
 </div>
 
 # 📂 Open Source Projects
