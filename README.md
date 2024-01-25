@@ -40,18 +40,6 @@ https://sites.google.com/view/coding-and-me/
   <h3>& Still Learning More!</h3>
 </div>
 
-# 📂 Open Source Projects
-
-<div align="center">
-<h3>Here is a list of projects I have contributed to so far!</h3>
-
-| Repos        | About          |
-| ------------- |:-------------:|
-| https://github.com/calwoodford/anki_decks | Creating revisions cards on topics around software development |
-| https://github.com/Prajwal0225/My-Favorite-SuperHero | A website to learn about all the superheros in the comic world!  |
-
-</div>
-
 # 💡 My Projects
 
 <div align="center">
