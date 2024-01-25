@@ -47,6 +47,7 @@ https://sites.google.com/view/coding-and-me/
 
 | Repos        | About          |
 | ------------- |:-------------:|
+| https://github.com/chisfy/PokeDex-App | Made with Vanillla JS, HTML, Vanilla CSS - My very first independent project, a take on building a PokeDex! |
 | https://github.com/chisfy/Simpsons-blog | Made with React, Vanilla CSS & JS - My first look into this JS Library! |
 | https://github.com/chisfy/Weather-Feeds-Phil | Made with TypeScript & React - A weather app for all foodie fans! |
 
