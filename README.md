@@ -52,7 +52,7 @@ https://sites.google.com/view/coding-and-me/
 | https://github.com/chisfy/Simpsons-blog | <a href="https://65aec97fddd90e443f7a95fc--bright-crisp-639cd3.netlify.app/">Web Link</a> | Made with React, Vanilla CSS & JS - My first look into this JS Library! |
 | https://github.com/chisfy/Weather-Feeds-Phil | <a href="https://weather-feeds-phil.vercel.app/">Web Link</a> | Made with TypeScript & React - A weather app for all foodie fans! |
 | https://github.com/chisfy/SoC-Shop | <a href="https://soc-shop.vercel.app/">Web Link</a> | Made with JS, CSS, React & NextJS - A project where you can shop til you drop! Inspired by a hackthon that proved difficult! |
-| https://github.com/chisfy/SQL-Backend-MVC | <a href="">Demo Video</a> | Made with Node.JS, Express.JS, PostgresSQL, Thunderclient & JS - A back-end project for a dog daycare center using MVC Architecture!
+| https://github.com/chisfy/SQL-Backend-MVC | <a href="">Demo Video</a> | Made with Node.JS, Express.JS, PostgresSQL, Thunderclient & JS - A back-end Restful API project for a dog daycare center using MVC Architecture!
 </div>
 
 # 📂 Open Source Projects
