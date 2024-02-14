@@ -23,7 +23,7 @@ I'm a recent graduate of a coding bootcamp at School of Code, who is keen to get
 My GitHub profile reflects my progress in coding journey, starting from simple exercises to larger apps. I hope that it's showcases my coding development, It's been tempting to adjust and edit old code but I think the imperfection is important in showcasing my growth which I hope all developers can find common ground with.
 
 <li>🌱 I’m currently working on developing projects and a portfolio!</li>
-<li>📚 I’m wanting to learn AWS, MongoDB, OpenAI, Python, PHP, Tailwind CSS & TDD (Test-Driven Development)!</li>
+<li>📚 I’m wanting to learn Docker, AWS, MongoDB, OpenAI, Python, PHP, Tailwind CSS & TDD (Test-Driven Development)!</li>
 <li>👀 I’m interested in coding, travel, food, gaming, sports, writing to name a few!</li> 
 <li>💞️ I’m looking to collaborate on open-source coding projects & learn more about software development</li>
   
