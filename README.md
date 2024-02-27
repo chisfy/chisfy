@@ -35,7 +35,7 @@ https://sites.google.com/view/coding-and-me/
 
 <div align="center">
  <img src="https://github.com/chisfy/chisfy/assets/137444313/55a9f8be-146a-455e-8b1d-4c54b7bd5d95" alt="mytechstack"/>
-  <h3> Tools I've Used: ThunderClient | Supertest | ElephantSQL | Supabase | Bootstrap | ChartJS | Playwright | Jest </h3>
+  <h3> Tools I've Used: Docker | ThunderClient | Supertest | ElephantSQL | Supabase | Bootstrap | ChartJS | Playwright | Jest </h3>
   <h3>& Still Learning More!</h3>
 </div>
 
