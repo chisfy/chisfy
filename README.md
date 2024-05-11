@@ -1,5 +1,6 @@
 
-![Linkedinbanner](https://github.com/chisfy/chisfy/assets/137444313/f7374ab8-05db-403c-b7a7-4740554cf6e5)
+![linkedinbanner2](https://github.com/chisfy/chisfy/assets/137444313/f40fc292-43ec-42e5-99ca-5accb6d2c210)
+
 
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1500&height=100&lines=Welcome+to+my+GitHub+Page!;Please+have+a+read+%26+a+look+through+my+projects!" alt="Typing SVG" /></a>
