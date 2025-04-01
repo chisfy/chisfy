@@ -23,7 +23,7 @@ My GitHub profile reflects my progress in coding journey, starting from simple e
 
 <li>🌱 I’m currently working on developing projects and a portfolio!</li>
 <li>📚 I’m wanting to learn Docker, Cloud Platforms, MongoDB, OpenAI, Python, PHP, Tailwind CSS & TDD (Test-Driven Development)!</li>
-<li>👀 I’m interested in coding, travel, food, gaming, sports, writing to name a few!</li> 
+<li>👀 I’m interested in coding, travel, food, gaming, sports, reading to name a few!</li> 
 <li>💞️ I’m looking to collaborate on open-source coding projects & learn more about software development</li>
   
 # 📝 Tech Blog:
